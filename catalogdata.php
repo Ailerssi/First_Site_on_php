@@ -1,0 +1,39 @@
+<?php
+$catalogData = [
+    'pr1' => [
+        'name' => 'Poduct1',
+        'image' => 'https://via.placeholder.com/150',
+        'price' => '$125',
+        'content' => '<p>dasfasasfasfasfsafsdgetfdvdfvdhgsvbcjhds</p>',
+    ],'pr2' => [
+        'name' => 'Poduct2',
+        'image' => 'https://via.placeholder.com/150',
+        'price' => '$125',
+        'content' => '<p>dasfasasfasfasfsafsdgetfdvdfvdhgsvbcjhds</p>',
+    ],'pr3' => [
+        'name' => 'Poduct3',
+        'image' => 'https://via.placeholder.com/150',
+        'price' => '$125',
+        'content' => '<p>dasfasasfasfasfsafsdgetfdvdfvdhgsvbcjhds</p>',
+    ],'pr4' => [
+        'name' => 'Poduct4',
+        'image' => 'https://via.placeholder.com/150',
+        'price' => '$125',
+        'content' => '<p>dasfasasfasfasfsafsdgetfdvdfvdhgsvbcjhds</p>',
+    ],'pr5' => [
+        'name' => 'Poduct5',
+        'image' => 'https://via.placeholder.com/150',
+        'price' => '$125',
+        'content' => '<p>dasfasasfasfasfsafsdgetfdvdfvdhgsvbcjhds</p>',
+    ],'pr6' => [
+        'name' => 'Poduct6',
+        'image' => 'https://via.placeholder.com/150',
+        'price' => '$125',
+        'content' => '<p>dasfasasfasfasfsafsdgetfdvdfvdhgsvbcjhds</p>',
+    ],'pr7' => [
+        'name' => 'Илбьюхин',
+        'image' => 'https://via.placeholder.com/150',
+        'price' => '$2000',
+        'content' => '<p>Малого описание</p>',
+    ]
+];
